@@ -1,0 +1,34 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+LetsFly/mvnw
+LetsFly/mvnw.cmd
+LetsFly/.mvn/wrapper/maven-wrapper.properties
+/.vscode
+/.idea/
+LetsFly/.idea/compiler.xml
+LetsFly/.idea/encodings.xml
+LetsFly/.idea/jarRepositories.xml
+LetsFly/.idea/misc.xml
+LetsFly/.idea/vcs.xml
