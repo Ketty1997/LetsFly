@@ -1,0 +1,34 @@
+/* Table style */
+body {
+  width: 100%;
+  height: 100%;
+}
+
+table {
+  background: #012b39;
+  border-radius: 0.25em;
+  border-collapse: collapse;
+  margin: 1em;
+}
+th {
+  border-bottom: 2px solid #364043;
+  color: rgb(24, 1, 97);
+  font-size: 0.85em;
+  font-weight: 600;
+  padding: 0.5em 1em;
+  text-align: left;
+}
+td {
+  color: rgb(150, 201, 244);
+  font-weight: 400;
+  padding: 0.65em 1em;
+}
+.disabled td {
+  color: #4f5f64;
+}
+tbody tr {
+  transition: background 0.25s ease;
+}
+tbody tr:hover {
+  background: rgba(19, 75, 112, 1);
+}
